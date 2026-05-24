@@ -1,0 +1,7 @@
+Contents:
+Dataset: UK Political Speeches
+Author: Andrew Sale (2023)
+Link: https://www.kaggle.com/datasets/andrewsale/uk-political-speeches
+File used: speeches_bps.csv
+Parties used: Labour and Conservative only (240 speeches total)
+To replicate: Run Cell 1 of the notebook, kagglehub downloads the dataset automatically. No manual download needed.
